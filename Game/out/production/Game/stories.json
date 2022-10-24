@@ -1,0 +1,188 @@
+{
+  "stories": [
+    {
+      "type": "EMPTY",
+      "value": "This is a forest, with trees in all directions. To the east, there appears to be sunlight."
+    },
+    {
+      "type": "EMPTY",
+      "value": "This is a dimly lit forest, with large trees all around."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You hear in the distance the chirping of a song bird."
+    },
+    {
+      "type": "EMPTY",
+      "value": "This is a path winding through a dimly lit forest. The path heads north-south here."
+    },
+    {
+      "type": "EMPTY",
+      "value": "One particularly large tree with some low branches stands at the edge of the path."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You are in a small clearing in a well marked forest path that extends to the east and west."
+    },
+    {
+      "type": "EMPTY",
+      "value": "The forest becomes impenetrable to the north."
+    },
+    {
+      "type": "EMPTY",
+      "value": "My mind was spinning."
+    },
+    {
+      "type": "EMPTY",
+      "value": "I tried to recollect memories, but I found none."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You are behind the white house. In one corner of the house there is a small window which is slightly ajar."
+    },
+    {
+      "type": "EMPTY",
+      "value": "The rank undergrowth prevents eastward movement."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You are in a clearing, with a forest surrounding you on all sides. A path leads south."
+    },
+    {
+      "type": "EMPTY",
+      "value": "A path leads into the forest to the east."
+    },
+    {
+      "type": "EMPTY",
+      "value": "On the ground is a pile of leaves."
+    },
+    {
+      "type": "EMPTY",
+      "value": "A strangely familiar brass lantern is lying on the ground."
+    },
+    {
+      "type": "EMPTY",
+      "value": "A sword of Elvish workmanship is on the ground."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You are standing at the southern end of a narrow tunnel where it opens into a wide cavern. The cavern is dimly illuminated by phosphorescent mosses clinging to its high ceiling."
+    },
+    {
+      "type": "EMPTY",
+      "value": "A deep ravine winds through the cavern, with a small stream at the bottom."
+    },
+    {
+      "type": "EMPTY",
+      "value": "The walls of the ravine are steep and crumbly. A foot bridge crosses the ravine to the south."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You are standing on a cruge but sturdy wooden foot bridge crossing a deep ravine. The path runs north and south from here."
+    },
+    {
+      "type": "EMPTY",
+      "value": "It is pitch dark. You are likely to be eaten by a grue."
+    },
+    {
+      "type": "EMPTY",
+      "value": "An eerie light, coming from all around you, casts strange shadows on the walls."
+    },
+    {
+      "type": "EMPTY",
+      "value": "To the south is a dark and winding trail."
+    },
+    {
+      "type": "EMPTY",
+      "value": "You are at the bottom of a seemingly endless stair, winding its way upward beyond your vision."
+    },
+    {
+      "type": "ENEMY",
+      "value": "A manticore blocks your path."
+    },
+    {
+      "type": "ENEMY",
+      "value": "The centaur chief showed up."
+    },
+    {
+      "type": "ENEMY",
+      "value": "Negotiating with the elf didn't work as expected."
+    },
+    {
+      "type": "ENEMY",
+      "value": "A halfling looks at you with disgust. You get angry and smash his face."
+    },
+    {
+      "type": "ENEMY",
+      "value": "An angry goblin asks for directions."
+    },
+    {
+      "type": "ENEMY",
+      "value": "The djinn master starts attacking you."
+    },
+    {
+      "type": "ENEMY",
+      "value": "A goblin tries to steal from you."
+    },
+    {
+      "type": "ENEMY",
+      "value": "A dwarf tries to steal from you."
+    },
+    {
+      "type": "ENEMY",
+      "value": "A fairy tries to steal from you."
+    },
+    {
+      "type": "ENEMY",
+      "value": "The fairy queen puts a spell on you."
+    },
+    {
+      "type": "SHOP",
+      "value": "A strange little man in a long cloak appears suddenly in the room. He is wearing a high pointed hat embroided with astrological signs."
+    },
+    {
+      "type": "SHOP",
+      "value": "A wizard draws forth his wand and waves it in your direction. It begins to glow with a faint blue glow."
+    },
+    {
+      "type": "SHOP",
+      "value": "A centaur, in a deep and resonant voice, speaks the word Filch!"
+    },
+    {
+      "type": "SHOP",
+      "value": "A goblin is offering potions."
+    },
+    {
+      "type": "SHOP",
+      "value": "The dwarf king shows you his wares."
+    },
+    {
+      "type": "FINISH",
+      "value": "I came here just to get my cat. And now I'm leaving. And you stay here."
+    },
+    {
+      "type": "FINISH",
+      "value": "Booker... Are you afraid of God?"
+    },
+    {
+      "type": "FINISH",
+      "value": "You were eaten by a Grue."
+    },
+    {
+      "type": "FINISH",
+      "value": "Oh boy, are we going to try something dangerous now?"
+    },
+    {
+      "type": "FINISH",
+      "value": "You awake to find yourself in a dark room."
+    },
+    {
+      "type": "FINISH",
+      "value": "A lurking grue slithered into the room and devoured you!"
+    },
+    {
+      "type": "FINISH",
+      "value": "You find yourself deep within the earth in a barren prison."
+    }
+  ]
+}
